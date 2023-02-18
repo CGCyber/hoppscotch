@@ -33,7 +33,7 @@
     "vue": "^3.2.25",
     "vue-github-button": "^3.0.3",
     "vue-router": "^4.0.16",
-    "vue-tippy": "6.0.0-alpha.58",
+    "vue-tippy": "6.0.0",
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
