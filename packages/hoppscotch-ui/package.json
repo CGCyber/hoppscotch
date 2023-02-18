@@ -14,7 +14,7 @@
     "@lezer/highlight": "^1.0.0",
     "@vitejs/plugin-legacy": "^2.3.0",
     "@vueuse/core": "^8.7.5",
-    "@vueuse/head": "^0.7.9",
+    "@vueuse/head": "^1.0.26",
     "acorn-walk": "^8.2.0",
     "esprima": "^4.0.1",
     "events": "^3.3.0",
